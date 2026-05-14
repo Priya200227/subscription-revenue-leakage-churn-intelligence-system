@@ -296,7 +296,7 @@ Features:
 - Executive churn overview
 - Customer risk segmentation
 
-![Dashboard Page 1](04_images/Page-1.png)
+![Dashboard Page 1](05_Images/Page-1.png)
 
 ---
 
@@ -309,7 +309,7 @@ Features:
 - Age-group churn analysis
 - Customer acquisition channel analysis
 
-![Dashboard Page 2](04_images/Page-2.png)
+![Dashboard Page 2](05_Images/Page-2.png)
 
 ---
 
@@ -323,7 +323,7 @@ Features:
 - High-risk customer identification
 - Predictive churn intelligence
 
-![Dashboard Page 3](04_images/Page-3.png)
+![Dashboard Page 3](05_Images/Page-3.png)
 
 ---
 
