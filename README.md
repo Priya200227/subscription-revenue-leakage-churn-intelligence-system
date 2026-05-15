@@ -338,7 +338,7 @@ Features:
 - Cancellation behavior strongly correlated with churn
 - Certain acquisition channels generated lower-quality customers
 - High-risk customers contributed disproportionately high revenue exposure
-- Estimated revenue-at-risk exceeded 96M+
+- Estimated revenue-at-risk exceeded 96M+ subscription currency units across high-risk customer segments (based on KKBox platform transaction values)
 - Customer engagement strongly impacted retention stability
 
 ---
