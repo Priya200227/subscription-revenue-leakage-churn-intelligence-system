@@ -223,10 +223,10 @@ The model was evaluated using:
 
 | Metric | Score |
 |--------|-------|
-| ROC-AUC Score | [0.9283] |
-| Precision (Churn Class) | [0.33] |
-| Recall (Churn Class) | [0.86] |
-| F1-Score (Churn Class) | [0.47] |
+| ROC-AUC Score | 0.9283 |
+| Precision (Churn Class) | 0.33 |
+| Recall (Churn Class) | 0.86 |
+| F1-Score (Churn Class) | 0.47 |
 
 > SMOTE was applied to handle class imbalance before model training.
 > Model prioritizes Recall over Precision to minimize missed churn cases.
